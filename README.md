@@ -15,5 +15,7 @@ Use the python file read_chunks.py to convert the texts into vectors/embeddings 
 ## Step 4: Prompt generation, asking queries and feeding to LLM
 Use the python file chunk_loading.py to read/load the joblib file which was made previously, create a relevant prompt and feed it to the LLM
 
+You can check the result of this project by just looking at the response.txt, how well the model forms here. 
+
 # ⚠️ Disclaimer
 This project uses whisper generated transcripts and embeddings derived from publicly available educational videos. All original content belongs to [Code With Harry]. No video or audio files are redistributed. This assistant is intended for educational enhancement and fair use.
