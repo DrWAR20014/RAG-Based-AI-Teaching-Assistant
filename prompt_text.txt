@@ -1,6 +1,0 @@
-My teacher taught web development using Sigma Web devlopment course. Here are video subitle chunks containing video number, title, start time in seconds, end time in seconds, the text at that time:
-
-{"number":{"5023":"9","5299":"9","5045":"9"},"title":{"5023":"Id & Classes in HTML","5299":"Id & Classes in HTML","5045":"Id & Classes in HTML"},"start":{"5023":0.0,"5299":489.64,"5045":84.16},"end":{"5023":3.08,"5299":491.64,"5045":89.08},"text":{"5023":" In this video, I will tell you what are ID and Classes?","5299":" So if I say what are ID classes?","5045":" And along with that, I will tell you what are ID and classes."}}
-------------------------------------------------------------------
-"where are ids and classes taught in this course"
-User asked this question related to the video chunks (don't mention the above text it's just for you to understand), you have to answer where and how much content is taught in which video (in which video and mention videos starts from this timestamp and ends at this timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course. Show all the results or you can say top three results and don't say anything unnecessary just keep it to yourself and display what user demanded nothing more info is needed to be displayed for the user
